@@ -1,0 +1,357 @@
+fileFormatVersion: 2
+guid: 31a5918dc00d1419fb8d88bcf0ffbe28
+timeCreated: 1481199696
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arbol4
+    100002: Box007
+    100004: Box007 1
+    100006: CosaRoja
+    100008: CosaRoja 1
+    100010: Escalera1
+    100012: Escalera10
+    100014: Escalera11
+    100016: Escalera12
+    100018: Escalera13
+    100020: Escalera14
+    100022: Escalera15
+    100024: Escalera16
+    100026: Escalera17
+    100028: Escalera18
+    100030: Escalera19
+    100032: Escalera2
+    100034: Escalera20
+    100036: Escalera21
+    100038: Escalera22
+    100040: Escalera23
+    100042: Escalera24
+    100044: Escalera25
+    100046: Escalera26
+    100048: Escalera27
+    100050: Escalera28
+    100052: Escalera29
+    100054: Escalera3
+    100056: Escalera30
+    100058: Escalera31
+    100060: Escalera32
+    100062: Escalera33
+    100064: Escalera34
+    100066: Escalera35
+    100068: Escalera36
+    100070: Escalera37
+    100072: Escalera4
+    100074: Escalera5
+    100076: Escalera6
+    100078: Escalera7
+    100080: Escalera8
+    100082: Escalera9
+    100084: //RootNode
+    100086: IslitaHight
+    100088: IslitaLow
+    100090: lamp_003
+    100092: lamp_003 1
+    100094: Mesh2
+    100096: Mesh2 1
+    100098: pCube26
+    100100: pCube26 1
+    100102: pCube27
+    100104: pCube27 1
+    100106: pCube28
+    100108: pCube28 1
+    100110: Plane002
+    100112: Plane002 1
+    100114: Valla
+    400000: Arbol4
+    400002: Box007
+    400004: Box007 1
+    400006: CosaRoja
+    400008: CosaRoja 1
+    400010: Escalera1
+    400012: Escalera10
+    400014: Escalera11
+    400016: Escalera12
+    400018: Escalera13
+    400020: Escalera14
+    400022: Escalera15
+    400024: Escalera16
+    400026: Escalera17
+    400028: Escalera18
+    400030: Escalera19
+    400032: Escalera2
+    400034: Escalera20
+    400036: Escalera21
+    400038: Escalera22
+    400040: Escalera23
+    400042: Escalera24
+    400044: Escalera25
+    400046: Escalera26
+    400048: Escalera27
+    400050: Escalera28
+    400052: Escalera29
+    400054: Escalera3
+    400056: Escalera30
+    400058: Escalera31
+    400060: Escalera32
+    400062: Escalera33
+    400064: Escalera34
+    400066: Escalera35
+    400068: Escalera36
+    400070: Escalera37
+    400072: Escalera4
+    400074: Escalera5
+    400076: Escalera6
+    400078: Escalera7
+    400080: Escalera8
+    400082: Escalera9
+    400084: //RootNode
+    400086: IslitaHight
+    400088: IslitaLow
+    400090: lamp_003
+    400092: lamp_003 1
+    400094: Mesh2
+    400096: Mesh2 1
+    400098: pCube26
+    400100: pCube26 1
+    400102: pCube27
+    400104: pCube27 1
+    400106: pCube28
+    400108: pCube28 1
+    400110: Plane002
+    400112: Plane002 1
+    400114: Valla
+    2300000: Arbol4
+    2300002: Box007
+    2300004: Box007 1
+    2300006: CosaRoja
+    2300008: CosaRoja 1
+    2300010: Escalera1
+    2300012: Escalera10
+    2300014: Escalera11
+    2300016: Escalera12
+    2300018: Escalera13
+    2300020: Escalera14
+    2300022: Escalera15
+    2300024: Escalera16
+    2300026: Escalera17
+    2300028: Escalera18
+    2300030: Escalera19
+    2300032: Escalera2
+    2300034: Escalera20
+    2300036: Escalera21
+    2300038: Escalera22
+    2300040: Escalera23
+    2300042: Escalera24
+    2300044: Escalera25
+    2300046: Escalera26
+    2300048: Escalera27
+    2300050: Escalera28
+    2300052: Escalera29
+    2300054: Escalera3
+    2300056: Escalera30
+    2300058: Escalera31
+    2300060: Escalera32
+    2300062: Escalera33
+    2300064: Escalera34
+    2300066: Escalera35
+    2300068: Escalera36
+    2300070: Escalera37
+    2300072: Escalera4
+    2300074: Escalera5
+    2300076: Escalera6
+    2300078: Escalera7
+    2300080: Escalera8
+    2300082: Escalera9
+    2300084: lamp_003
+    2300086: lamp_003 1
+    2300088: Mesh2
+    2300090: Mesh2 1
+    2300092: pCube26
+    2300094: pCube26 1
+    2300096: pCube27
+    2300098: pCube27 1
+    2300100: pCube28
+    2300102: pCube28 1
+    2300104: Plane002
+    2300106: Plane002 1
+    2300108: Valla
+    3300000: Arbol4
+    3300002: Box007
+    3300004: Box007 1
+    3300006: CosaRoja
+    3300008: CosaRoja 1
+    3300010: Escalera1
+    3300012: Escalera10
+    3300014: Escalera11
+    3300016: Escalera12
+    3300018: Escalera13
+    3300020: Escalera14
+    3300022: Escalera15
+    3300024: Escalera16
+    3300026: Escalera17
+    3300028: Escalera18
+    3300030: Escalera19
+    3300032: Escalera2
+    3300034: Escalera20
+    3300036: Escalera21
+    3300038: Escalera22
+    3300040: Escalera23
+    3300042: Escalera24
+    3300044: Escalera25
+    3300046: Escalera26
+    3300048: Escalera27
+    3300050: Escalera28
+    3300052: Escalera29
+    3300054: Escalera3
+    3300056: Escalera30
+    3300058: Escalera31
+    3300060: Escalera32
+    3300062: Escalera33
+    3300064: Escalera34
+    3300066: Escalera35
+    3300068: Escalera36
+    3300070: Escalera37
+    3300072: Escalera4
+    3300074: Escalera5
+    3300076: Escalera6
+    3300078: Escalera7
+    3300080: Escalera8
+    3300082: Escalera9
+    3300084: lamp_003
+    3300086: lamp_003 1
+    3300088: Mesh2
+    3300090: Mesh2 1
+    3300092: pCube26
+    3300094: pCube26 1
+    3300096: pCube27
+    3300098: pCube27 1
+    3300100: pCube28
+    3300102: pCube28 1
+    3300104: Plane002
+    3300106: Plane002 1
+    3300108: Valla
+    4300000: Valla
+    4300002: Arbol4
+    4300004: Escalera7
+    4300006: Escalera11
+    4300008: Escalera12
+    4300010: Escalera3
+    4300012: Escalera1
+    4300014: Escalera17
+    4300016: Box007
+    4300018: Escalera14
+    4300020: lamp_003
+    4300022: Escalera25
+    4300024: CosaRoja
+    4300026: Escalera26
+    4300028: Escalera4
+    4300030: Escalera2
+    4300032: Escalera27
+    4300034: Escalera5
+    4300036: pCube28
+    4300038: Escalera28
+    4300040: Escalera29
+    4300042: Escalera10
+    4300044: Escalera30
+    4300046: Plane002
+    4300048: pCube27
+    4300050: Escalera19
+    4300052: Escalera21
+    4300054: Escalera20
+    4300056: Escalera9
+    4300058: Escalera31
+    4300060: Escalera13
+    4300062: pCube26
+    4300064: Escalera24
+    4300066: Escalera23
+    4300068: Escalera32
+    4300070: Escalera22
+    4300072: Escalera6
+    4300074: Escalera18
+    4300076: Escalera16
+    4300078: Escalera33
+    4300080: Escalera34
+    4300082: Escalera35
+    4300084: Escalera8
+    4300086: Mesh2
+    4300088: Escalera36
+    4300090: Escalera37
+    4300092: Escalera15
+    4300094: Box007
+    4300096: lamp_003
+    4300098: CosaRoja
+    4300100: pCube28
+    4300102: Plane002
+    4300104: pCube27
+    4300106: pCube26
+    4300108: Mesh2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
