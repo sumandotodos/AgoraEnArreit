@@ -239,7 +239,10 @@ public class MasterController : Task {
 
 		controlHub.menuController.categoriesNames = www.text.Split (':');
 
-		www = new WWW (controlHub.networkAgent.bootstrapData.extraServer + ":" + controlHub.networkAgent.bootstrapData.extraServerPort + Utils.getDebateDB, form);
+        url = controlHub.networkAgent.bootstrapData.commandServer + ":" +
+         controlHub.networkAgent.bootstrapData.commandServerPort + Utils.getDebateDB;
+
+        www = new WWW (url, form);
 		state = 200;
 	}
 

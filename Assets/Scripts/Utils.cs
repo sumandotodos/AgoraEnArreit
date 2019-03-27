@@ -35,7 +35,7 @@ public class Utils : MonoBehaviour {
 	public const string getLocalitiesListScript = "/arreit/listLocalitiesByCountry.php";
 	public const string getOrganizationsListScript = "/arreit/listOrganizationByLocCoun.php";
 	public const string getClassroomsListScript = "/arreit/listClassroomsByOrgLocCoun.php";
-	public const string getDebateDB = "/arreit/retrieveDebateDB.php";
+	public const string getDebateDB = "/retrieveDebateDB";
 	public const string updatePupilInfo = "/arreit/updatePupilInfo.php";
 	public const string retrievePupilInfo = "/arreit/retrievePupilInfo.php";
 	public const string preStorePupilInfo = "/arreit/preStorePupilInfo.php";
